@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+deploy: 
+  type: git
+  repository: git@github.com:OvOq/DinasaurCpp.github.io.git
+  branch: main
